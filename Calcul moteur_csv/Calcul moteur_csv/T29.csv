@@ -1,0 +1,8 @@
+﻿Type de moteur,Fusibles temporisés (A),Fusibles non temporisés (A),Disjoncteur temporisé (A)
+"Monophasé, tous les types (AC)",175,300,250
+À cage d'écureuil et synchrone : triphasé (AC),175,300,250
+Démarrage à pleine tension à résistance et à réactance (AC),175,300,250
+Démarrage avec autotransformateur et en étoile-triangle : Maximum de 30 A (AC),175,250,200
+Démarrage avec autotransformateur et en étoile-triangle : Plus de 30 A (AC),175,200,200
+Rotor bobiné (AC),150,150,150
+Courant continu (DC),150,150,150
